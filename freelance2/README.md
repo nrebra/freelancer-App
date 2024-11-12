@@ -24,7 +24,7 @@ Freelance Journey is a mobile app designed to simplify the job posting and appli
 ## Installation
 
 1. **Clone the Repo**:
-   git clone https://github.com/nrebra/freelance_journey.git
+   git clone https://github.com/nrebra/freelance2.git
    cd freelance_journey
    
 Set Up Firebase:
