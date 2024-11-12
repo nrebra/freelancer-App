@@ -7,7 +7,6 @@ Freelance Journey is a mobile app designed to simplify the job posting and appli
 * **User Authentication**: Secure login with Firebase
 * **Job Listings**: Create and browse job opportunities
 * **Profile Management**: Create and update freelancer profiles
-* **Search & Filter**: Search jobs by keyword or filter by category
 * **Job Application**: Apply to jobs directly from the app
 * **Messaging System**: In-app chat for communication
 * **Verification**: Identity checks for both freelancers and job posters
