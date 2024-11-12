@@ -1,18 +1,18 @@
 # FREELANCE JOURNEY
-
 <p align="center">
-  <img src="./assets/signin_screen.png" width="24%" />
-  <img src="./assets/login_screen.png" width="24%" />
-  <img src="./assets/categories_screen.png" width="24%" />
-  <img src="./assets/categories_details_screen.png" width="24%" />
+  <img src="https://github.com/nrebra/freelancer-App/blob/main/freelance2/assets/signin_screen.png" width="24%" />
+  <img src="https://github.com/nrebra/freelancer-App/blob/main/freelance2/assets/login_screen.png" width="24%" />
+  <img src="https://github.com/nrebra/freelancer-App/blob/main/freelance2/assets/categories_screen.png" width="24%" />
+  <img src="https://github.com/nrebra/freelancer-App/blob/main/freelance2/assets/categories_details_screen.png" width="24%" />
 </p>
 
 <p align="center">
-  <img src="./assets/account_page.png" width="24%" />
-  <img src="./assets/offer_screen.png" width="24%" />
-  <img src="./assets/delete_favorites_screen.png" width="24%" />
-  <img src="./assets/offer_screen.png" width="24%" />
+  <img src="https://github.com/nrebra/freelancer-App/blob/main/freelance2/assets/account_page.png" width="24%" />
+  <img src="https://github.com/nrebra/freelancer-App/blob/main/freelance2/assets/offer_screen.png" width="24%" />
+  <img src="https://github.com/nrebra/freelancer-App/blob/main/freelance2/assets/delete_favorites_screen.png" width="24%" />
+  <img src="https://github.com/nrebra/freelancer-App/blob/main/freelance2/assets/offer_screen.png" width="24%" />
 </p>
+
 
 
 
