@@ -1,6 +1,13 @@
 # FREELANCE JOURNEY
 
-Freelance Journey is a mobile app designed to simplify the job posting and application process for freelancers. Employers can post job listings with detailed requirements, and freelancers can easily browse and apply for jobs based on their skills.
+## App Screenshots
+
+<p align="center">
+  <img src="assets/login_screen.png" alt="Login Screen" width="19%" />
+</p>
+
+Freelance Journey is a mobile app designed to simplify the job posting and application process for freelancers. Employers can post job listings with detailed requirements, and freelancers can easily browse and apply for jobs based on their skills
+
 
 ## Features
 
