@@ -1,6 +1,5 @@
 # FREELANCE JOURNEY
 
-## App Screenshots
 
 <p align="center">
   <img src="./assets/signin_screen.png" alt="Sign In Screen" width="24%" />
