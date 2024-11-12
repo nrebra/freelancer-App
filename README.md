@@ -1,12 +1,19 @@
 # FREELANCE JOURNEY
 
-
-
-
+<p align="center">
+  <img src="./assets/signin_screen.png" width="24%" />
+  <img src="./assets/login_screen.png" width="24%" />
+  <img src="./assets/categories_screen.png" width="24%" />
+  <img src="./assets/categories_details_screen.png" width="24%" />
+</p>
 
 <p align="center">
-  <img src="/assets/account_page.png" width="24%" />
+  <img src="./assets/account_page.png" width="24%" />
+  <img src="./assets/offer_screen.png" width="24%" />
+  <img src="./assets/delete_favorites_screen.png" width="24%" />
+  <img src="./assets/offer_screen.png" width="24%" />
 </p>
+
 
 
 Freelance Journey is a mobile app designed to simplify the job posting and application process for freelancers. Employers can post job listings with detailed requirements, and freelancers can easily browse and apply for jobs based on their skills.
